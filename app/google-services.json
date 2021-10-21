@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212060661987",
+    "project_id": "calotrack",
+    "storage_bucket": "calotrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212060661987:android:45d8648d9d01e4a03ffdd6",
+        "android_client_info": {
+          "package_name": "com.example.calotrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212060661987-7e1dpkuetciouaokb06butekuriguiue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbABJODEfGSIS2F7bmZF2C0y60MrNQ8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212060661987-7e1dpkuetciouaokb06butekuriguiue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
